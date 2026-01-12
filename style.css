@@ -5,12 +5,16 @@
   
   button#apple {
     background-color: #ba1a62;
+    max-width: 100px;
+    color: white;
   }
   button#banana {
     background-color: #c8cd7d;
+    color: black;
   }
   button#mango {
     background-color: #e4633b;
+    color: white;
   }
   
   #shopping-cart {
